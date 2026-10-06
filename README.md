@@ -16,7 +16,7 @@
 
 | 文件 | 曲名 | 说明 |
 |---|---|---|
-| 生日快乐.txt | 生日快乐 | C大调，BPM=120（四分音符=500ms） |
+| `happy_birthday.txt` | 生日快乐 | C大调，BPM=120（四分音符=500ms） |
 
 ## 音高对照（C大调）
 
@@ -34,3 +34,16 @@
 | E5 | 659 |
 | F5 | 698 |
 | G5 | 784 |
+
+## 手机 App 里怎么用（App Inventor）
+
+```
+当 按钮下载.被点击
+    调用 Web1.发送GET请求(
+        网址 = "https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/happy_birthday.txt"
+    )
+
+当 Web1.得到文本
+    设置 全局 当前曲谱 为 Web1.响应内容
+    调用 蓝牙客户端1.发送文本( 连接(连接("SONG,", 当前曲谱), "\n") )
+```
