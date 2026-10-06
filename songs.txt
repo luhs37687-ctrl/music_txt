@@ -1,6 +1,6 @@
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/happy_birthday.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/twinkle.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/two_tigers.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/ode_to_joy.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/mary_lamb.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/bee.txt
+happy_birthday
+twinkle
+two_tigers
+ode_to_joy
+mary_lamb
+bee
