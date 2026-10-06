@@ -1,6 +1,6 @@
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/happy_birthday.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/twinkle.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/two_tigers.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/ode_to_joy.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/mary_lamb.txt
-https://raw.githubusercontent.com/luhs37687-ctrl/music_txt/main/bee.txt
+生日快乐,happy_birthday
+小星星,twinkle
+两只老虎,two_tigers
+欢乐颂,ode_to_joy
+玛丽有只小羊羔,mary_lamb
+小蜜蜂,bee
